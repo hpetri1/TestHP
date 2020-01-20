@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TestHP
 //
-//  Created by NAIT Library on 2020-01-18.
+//  Created by Helena Petri on 2020-01-18.
 //  Copyright © 2020 HelenaPetri. All rights reserved.
 //
 
